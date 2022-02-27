@@ -99,14 +99,14 @@ public class FoodTruckApp {
 				
 			}
 			
-				System.out.println("The highest rated truck is " + foodTrucks[count].toString());
+				System.out.println("The highest rated food truck is:   " + foodTrucks[count].toString());
 
 					 			
 			
 
 			
 			
-			
+			//
 			
 	}		
 }
