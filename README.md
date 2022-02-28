@@ -1,3 +1,5 @@
 # FoodTruckProject
 
-test entry
+For this project I created a program that simulates an app. It takes Users input on up to five food trucks. The user enters in the food trucks name , the type of food served, as well as a rating for quality. The user is then prompted with a multi option menu in which they can either have all the food trucks information displayed , find the average rating of all food trucks, or just view the highest rated food truck. Each individual food truck is also assigned a unique ID number.
+
+This program used many technologies such as for loops and while loops to help differentiate the criteria and manipulate the different expected outputs.I Learned much during this project as this was the first utilization for me of getter and setter methods as well as incorporating toString and arrays into my syntax. It was very helpful for me to practice these new to me concepts and struggle with endless errors until I finally figured out how the newly learned technologies can be blended together. This was a great learning experience for me and I struggled greatly on some aspects of it. I hope to get more practice with this content moving forward.
